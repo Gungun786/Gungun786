@@ -122,6 +122,26 @@ An AI-powered healthcare prototype that applies image-classification concepts to
 
 ---
 
+### 🔹 Urban Mitigation — Sustainable City Decision Support
+
+A sustainability-focused project exploring how data and AI-assisted analysis can help identify urban environmental risks and communicate practical mitigation strategies.
+
+**Project focus:** Urban Sustainability, Data Analysis, Artificial Intelligence, Decision Support
+
+[![Find Repository](https://img.shields.io/badge/Find_Repository-Urban_Mitigation-2783DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786?tab=repositories)
+
+---
+
+### 🔹 Interview Agent — AI-Assisted Interview Preparation
+
+An AI-assisted interview preparation project designed to provide structured practice questions and support repeatable mock-interview sessions.
+
+**Project focus:** AI Agents, Interview Preparation, Automation, User Experience
+
+[![Find Repository](https://img.shields.io/badge/Find_Repository-Interview_Agent-46A171?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786?tab=repositories)
+
+---
+
 ## 🏆 Hackathon Profile
 
 - **Preferred roles:** AI/ML Developer, Python Developer, Product Research
