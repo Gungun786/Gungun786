@@ -2,7 +2,7 @@
 
 ### Computer Science & Artificial Intelligence Student | AI/ML Enthusiast | Software Developer
 
-[![Email](https://img.shields.io/badge/Email-gungungupta63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungungupta63@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gungunguptaa63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungungupta63@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gungun_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gungun-gupta-62a426317)
 [![GitHub](https://img.shields.io/badge/GitHub-Gungun786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786)
 
