@@ -1,76 +1,168 @@
-# Hi 👋, I'm Gungun Gupta
+<h1 align="center">Hi 👋, I'm Gungun Gupta</h1>
 
-### Computer Science & Artificial Intelligence Student | AI/ML Enthusiast | Software Developer
+<h3 align="center">
+B.Tech CS–AI Student | AI/ML Enthusiast | Software Developer
+</h3>
 
-[![Email](https://img.shields.io/badge/Email-gungunguptaa63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungungupta63@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gungun_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gungun-gupta-62a426317)
-[![GitHub](https://img.shields.io/badge/GitHub-Gungun786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786)
+<p align="center">
+  <a href="mailto:gungungupta63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gungungupta63%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/gungun-gupta-62a426317">
+    <img src="https://img.shields.io/badge/LinkedIn-Gungun%20Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Gungun786">
+    <img src="https://img.shields.io/badge/GitHub-Gungun786-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **B.Tech Computer Science and Artificial Intelligence student** at **Pranveer Singh Institute of Technology, Kanpur**, with a strong interest in programming, problem-solving, machine learning, and cloud technologies.
+I am a motivated and dedicated **B.Tech Computer Science and Artificial Intelligence student** at **Pranveer Singh Institute of Technology, Kanpur**.
 
-I enjoy building AI-powered applications that address practical problems. My current focus is strengthening my skills in **Python, machine learning, image classification, workflow automation, cloud platforms, and collaborative software development**.
+I have a strong interest in **programming, problem-solving, artificial intelligence, machine learning, and cloud technologies**. I enjoy developing practical projects, experimenting with AI models, and applying technology to real-world problems.
 
-- 🔭 Building AI-powered applications and automation tools
-- 🌱 Learning neural networks, model evaluation, cloud technologies, and CI/CD
-- 🤝 Open to hackathon collaborations and software/AI opportunities
-- ⚡ Interested in creating scalable, secure, and user-focused solutions
-- 🎯 Focused on AI/ML, health tech, productivity, and cloud-based systems
+Currently, I am focused on improving my skills in **Python development, neural networks, image classification, workflow automation, cloud computing, and software engineering**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I'm Working On
 
-- **Programming Languages:** Python, C++, JavaScript
-- **AI & Machine Learning:** Neural Networks, Data Preprocessing, Image Classification, Model Evaluation
-- **Cloud & DevOps:** Google Cloud fundamentals, CI/CD concepts
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **Core Strengths:** Problem-Solving, Team Collaboration, Creative Thinking, Rapid Learning
+- Building AI-powered applications and workflow-automation tools
+- Exploring neural networks, image classification, and model evaluation
+- Learning Google Cloud technologies and CI/CD concepts
+- Developing projects in health tech and productivity
+- Improving my GitHub portfolio with practical AI/ML projects
+- Preparing to collaborate on impactful hackathon solutions
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 TaskFlow-AI
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Artificial Intelligence and Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Image%20Classification-4285F4?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Image Classification" />
+</p>
+
+### Cloud and DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 TaskFlow-AI — AI-Assisted Workflow Automation
 
 An AI-assisted workflow automation project designed to streamline task management, reduce repetitive effort, and improve productivity.
 
-**Project focus:** AI, Workflow Automation, Task Management, Productivity
+**Key contributions:**
 
-[![View Source Code](https://img.shields.io/badge/Source_Code-TaskFlow--AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786/taskflow-ai)
+- Developed the project concept around AI-assisted task management
+- Structured the workflow to support task organisation and productivity
+- Explored the use of AI to reduce repetitive work
+- Focused on creating a practical and user-friendly solution
+
+**Key Focus:** `Artificial Intelligence` `Workflow Automation` `Task Management` `Productivity`
+
+<p>
+  <a href="https://github.com/Gungun786/taskflow-ai">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-TaskFlow--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow-AI Source Code" />
+  </a>
+</p>
 
 ---
 
-### 🔹 SkinSight
+### 🔹 SkinSight — AI-Powered Skin Condition Screening
 
-An AI-powered skin-disease detection project that applies image-classification concepts to support early screening and healthcare awareness.
+An AI-powered healthcare prototype that applies image-classification concepts to support early skin-condition screening and healthcare awareness.
 
-> SkinSight is an educational prototype and is not a substitute for professional medical diagnosis.
+**Key contributions:**
 
-**Project focus:** Artificial Intelligence, Image Classification, Health Tech, Data Preprocessing
+- Worked on the AI-based skin-condition classification workflow
+- Applied image-preprocessing and neural-network concepts
+- Focused on model evaluation and organised prediction results
+- Considered responsible AI practices for a healthcare-related project
 
-[![View Source Code](https://img.shields.io/badge/Source_Code-SkinSight-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gungun786/skinsight)
+**Key Focus:** `Artificial Intelligence` `Neural Networks` `Image Classification` `Data Preprocessing` `Health Tech`
+
+<p>
+  <a href="https://github.com/Gungun786/skinsight">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-SkinSight-181717?style=for-the-badge&logo=github&logoColor=white" alt="SkinSight Source Code" />
+  </a>
+</p>
+
+> **Note:** SkinSight is an educational prototype and is not a substitute for professional medical diagnosis.
 
 ---
 
 ## 🏆 Hackathon Profile
 
 - **Preferred roles:** AI/ML Developer, Python Developer, Product Research
-- **Strengths:** Problem-solving, rapid learning, model experimentation, teamwork, and presentation
+- **Strengths:** Problem-solving, rapid learning, model experimentation, research, teamwork, and presentation
 - **Preferred domains:** AI/ML, health tech, productivity, cloud solutions, and social impact
-- **Team contribution:** Research, ideation, prototyping, documentation, and technical execution
+- **Team contribution:** Research, ideation, prototyping, documentation, technical execution, and communication
 
 ---
 
 ## 📜 Certifications
 
-- Introduction to AI — Coursera, May 2026
-- Supervised Machine Learning: Regression and Classification — Coursera
-- Blockchain Basics — Coursera, March 2026
-- Cyber Job Simulation — Deloitte Australia via Forage, June 2025
+- Coursera — Introduction to Artificial Intelligence, May 2026
+- Coursera — Supervised Machine Learning: Regression and Classification
+- Coursera — Blockchain Basics, March 2026
+- Deloitte Australia via Forage — Cyber Job Simulation, June 2025
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gungun786&show_icons=true&theme=tokyonight&hide_border=true" alt="Gungun's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungun786&layout=compact&theme=tokyonight&hide_border=true" alt="Gungun's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gungun786&theme=tokyonight&hide_border=true" alt="Gungun's GitHub Streak" />
+</p>
+
+---
+
+## 🌱 Interests
+
+- Artificial Intelligence and Machine Learning
+- Neural Networks and Image Classification
+- Software Development
+- Cloud Computing
+- Workflow Automation
+- Health Technology
+- Cybersecurity Fundamentals
+- Research and Problem-Solving
 
 ---
 
@@ -78,8 +170,18 @@ An AI-powered skin-disease detection project that applies image-classification c
 
 I am open to **hackathon collaborations, internships, research-oriented projects, and AI/software development opportunities**.
 
-- **Email:** [gungungupta63@gmail.com](mailto:gungungupta63@gmail.com)
-- **LinkedIn:** [Gungun Gupta](https://linkedin.com/in/gungun-gupta-62a426317)
-- **GitHub:** [Gungun786](https://github.com/Gungun786)
+<p>
+  <a href="mailto:gungungupta63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/gungun-gupta-62a426317">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Gungun786">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-**Let's learn, collaborate, and build impactful technology 🚀**
+---
+
+<h3 align="center">Thanks for visiting my profile! Let's build something impactful 🚀</h3>
